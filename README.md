@@ -1,4 +1,4 @@
-**QA Automation Engineer**  
+**QA Automation & Manual Engineer**  
 Crafting fast, reliable, and readable automated tests.  
 Focused on clean architecture, meaningful coverage, and end-user quality.  
 Based in the U.S.
