@@ -4,7 +4,8 @@ Experienced in exploratory and regression manual testing.
 Focused on clean architecture, meaningful coverage, and end-user quality.  
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" style="vertical-align:middle;"/> LinkedIn](https://www.linkedin.com/in/i-karina/)  
-[<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="16" style="vertical-align:middle;"/> Gmail](mailto:karinaibragimova54@gmail.com)
+[<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="15" style="vertical-align:middle;"/> Gmail](mailto:karinaibragimova54@gmail.com)
+
 
 <br/>
 
@@ -29,5 +30,4 @@ Focused on clean architecture, meaningful coverage, and end-user quality.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="35" height="35" alt="Confluence"/>
   <img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-icon.svg" width="35" height="35" alt="BrowserStack"/>
-  <img src="https://www.iconsdb.com/icons/preview/white/virgo-xxl.png" width="40" height="40" alt="Virgo" title="Easter egg unlocked: Virgo. Detail-driven, quality-obsessed."/>
 </p>
