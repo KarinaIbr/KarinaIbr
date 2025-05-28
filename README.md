@@ -23,4 +23,8 @@ Focused on clean architecture, meaningful coverage, and end-user quality.
   <img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-icon.svg" width="40" height="40" alt="BrowserStack" title="BrowserStack"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="40" height="40" alt="WebStorm" title="WebStorm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm" title="PyCharm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker"/>
+  <img src="https://allurereport.org/public/img/allure-report.svg" width="40" height="40" alt="Allure Report" title="Allure Report"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" width="40" height="40" alt="Confluence" title="Confluence"/>
 </p>
