@@ -1,4 +1,4 @@
-**QA Automation & Manual Engineer**  
+**QA Engineer (Automation & Manual)**   
 Crafting fast, reliable, and readable automated tests.  
 Experienced in exploratory and regression manual testing.  
 Focused on clean architecture, meaningful coverage, and end-user quality.  
