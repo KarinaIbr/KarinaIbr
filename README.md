@@ -30,4 +30,5 @@ Focused on clean architecture, meaningful coverage, and end-user quality.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="35" height="35" alt="Confluence"/>
   <img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-icon.svg" width="35" height="35" alt="BrowserStack"/>
+  <img src="https://cdn.simpleicons.org/swagger" width="35" height="35" alt="Swagger.io"/>
 </p>
