@@ -1,5 +1,4 @@
-## QA Engineer (Automation & Manual)
-
+**QA Engineer (Automation & Manual)**<br/>
 Crafting fast, reliable, and readable automated tests.  
 Experienced in exploratory and regression manual testing.  
 Focused on clean architecture, meaningful coverage, and end-user quality.  
@@ -7,9 +6,9 @@ Focused on clean architecture, meaningful coverage, and end-user quality.
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" style="vertical-align:middle;"/> LinkedIn](https://www.linkedin.com/in/i-karina/)  
 [<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="15" style="vertical-align:middle;"/> Gmail](mailto:karinaibragimova54@gmail.com)
 
-<br/>
 
-## Tools & Technologies
+***
+Tools & Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/>
