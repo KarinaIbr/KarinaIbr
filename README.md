@@ -25,6 +25,7 @@ Tools & Technologies
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="40" height="40" alt="Confluence"/>
   <img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-icon.svg" width="40" height="40" alt="BrowserStack"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="40" height="40" alt="WebStorm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
@@ -32,7 +33,7 @@ Tools & Technologies
 </p>
 
 <sub>
-Stack: Python, JavaScript, Playwright, Selenium, Postman, Docker, Swagger, Git, GitHub, MySQL, PostgreSQL, Jira, Confluence, BrowserStack, PyCharm, WebStorm, HTML5, CSS3.
+Stack: Python, JavaScript, Playwright, Selenium, Postman, Docker, Swagger, Git, GitHub, MySQL, PostgreSQL, Jira, Confluence, BrowserStack, VS Code, PyCharm, WebStorm, HTML5, CSS3.
 </sub>
 
 
