@@ -1,14 +1,18 @@
-**QA Engineer (Automation & Manual)**  
+<!-- Именной бейдж с ролью -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Karina%20Ibragimova-QA%20Engineer%20(Automation%20%26%20Manual)-007ACC?style=for-the-badge&logo=github" alt="Karina Ibragimova | QA Engineer (Automation & Manual)"/>
+</p>
+
 Crafting fast, reliable, and readable automated tests.  
 Experienced in exploratory and regression manual testing.  
 Focused on clean architecture, meaningful coverage, and end-user quality.
+<br/>
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" style="vertical-align:middle;"/> LinkedIn](https://www.linkedin.com/in/i-karina/)  
 [<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="15" style="vertical-align:middle;"/> Gmail](mailto:karinaibragimova54@gmail.com)
 
-<br/>
 
-Tools & Technologies
+## Tools & Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
@@ -32,9 +36,6 @@ Tools & Technologies
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3"/>
 </p>
 
-
 <sub>
 Stack: Python, JavaScript, Playwright, Selenium, Postman, Docker, Swagger, Git, GitHub, MySQL, PostgreSQL, Jira, Confluence, BrowserStack, VS Code, PyCharm, WebStorm, HTML5, CSS3.
 </sub>
-
-
