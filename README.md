@@ -6,7 +6,7 @@
 
 Hi, I’m Karina — a QA Engineer specializing in Automation, with a solid foundation in Manual testing.
 I approach testing with structure, curiosity, and sharp attention to edge cases.
-Calm, precise, and deeply technical — I help teams build quality with confidence.
+Analytical, structured, and technically fluent — I help teams build quality with confidence.
 
 ### Contacts
 
