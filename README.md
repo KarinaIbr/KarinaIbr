@@ -4,9 +4,9 @@
   <img src="https://img.shields.io/badge/-Automation%20%26%20Manual-c8a487?style=for-the-badge" alt="Automation and Manual" height="30"/>
 </p>
 
-Automation-focused QA Engineer with a solid manual testing background.  
-Crafting fast, reliable, and maintainable automated tests using Python and Playwright.  
-Strong focus on test coverage, traceability, and clear communication with development teams.
+Hi, I’m Karina — a QA Engineer focused on Automation & Manual testing.
+I approach testing with structure, curiosity, and sharp attention to edge cases.
+Calm, precise, and deeply technical — I help teams build quality with confidence.
 
 ### Contacts
 
