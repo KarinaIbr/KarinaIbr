@@ -1,11 +1,12 @@
-<!-- Имя + бейдж -->
 <p align="left">
-  <img src="https://img.shields.io/badge/Karina%20Ibragimova-QA%20Engineer%20(Automation%20%26%20Manual)-007ACC?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-Karina%20Ibragimova-3a3a3a?style=for-the-badge&logo=github&logoColor=white" alt="Karina Ibragimova" height="34"/>
+  <img src="https://img.shields.io/badge/-QA%20Engineer-557560?style=for-the-badge" alt="QA Engineer" height="34"/>
+  <img src="https://img.shields.io/badge/-Automation%20%26%20Manual-c8a487?style=for-the-badge" alt="Automation and Manual" height="34"/>
 </p>
 
-Automation-focused QA Engineer with a solid manual background.  
+Automation-focused QA Engineer with a solid manual testing background.  
 Crafting fast, reliable, and maintainable automated tests using Python and Playwright.  
-Strong attention to test coverage, traceability, and clear communication with development teams.
+Strong focus on test coverage, traceability, and clear communication with development teams.
 
 ### Contacts
 
@@ -42,3 +43,6 @@ Strong attention to test coverage, traceability, and clear communication with de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
 </p>
 
+<sub>
+Stack: Python, JavaScript, Playwright, Selenium, Postman, Docker, Swagger, Git, GitHub, MySQL, PostgreSQL, Jira, Confluence, BrowserStack, VS Code, PyCharm, WebStorm, HTML5, CSS3.
+</sub>
