@@ -1,7 +1,7 @@
 <p align="left">
-  <img src="https://img.shields.io/badge/-Karina%20Ibragimova-3a3a3a?style=for-the-badge&logo=github&logoColor=white" alt="Karina Ibragimova" height="34"/>
-  <img src="https://img.shields.io/badge/-QA%20Engineer-557560?style=for-the-badge" alt="QA Engineer" height="34"/>
-  <img src="https://img.shields.io/badge/-Automation%20%26%20Manual-c8a487?style=for-the-badge" alt="Automation and Manual" height="34"/>
+  <img src="https://img.shields.io/badge/-Karina%20Ibragimova-3a3a3a?style=for-the-badge&logo=github&logoColor=white" alt="Karina Ibragimova" height="30"/>
+  <img src="https://img.shields.io/badge/-QA%20Engineer-557560?style=for-the-badge" alt="QA Engineer" height="30"/>
+  <img src="https://img.shields.io/badge/-Automation%20%26%20Manual-c8a487?style=for-the-badge" alt="Automation and Manual" height="30"/>
 </p>
 
 Automation-focused QA Engineer with a solid manual testing background.  
