@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/-Automation%20%26%20Manual-c8a487?style=for-the-badge" alt="Automation and Manual" height="30"/>
 </p>
 
-Hi, I’m Karina — a QA Engineer focused on Automation & Manual testing.
+Hi, I’m Karina — a QA Engineer specializing in Automation, with a solid foundation in Manual testing.
 I approach testing with structure, curiosity, and sharp attention to edge cases.
 Calm, precise, and deeply technical — I help teams build quality with confidence.
 
