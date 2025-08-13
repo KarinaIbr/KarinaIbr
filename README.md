@@ -31,6 +31,8 @@ Analytical, structured, and technically fluent — I help teams build quality wi
   <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="40" title="Swagger"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" title="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" title="GitLab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" title="Jira"/>
@@ -41,11 +43,18 @@ Analytical, structured, and technically fluent — I help teams build quality wi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="40" title="WebStorm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="33" title="Jenkins"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="44" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="35" title="Windows"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" title="macOS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android"/>
 </p>
 
 <sub>
-Stack: Python, JavaScript, Playwright, Selenium, Postman, Docker, Swagger, Git, GitHub, MySQL, PostgreSQL, Jira, Confluence, BrowserStack, VS Code, PyCharm, WebStorm, HTML5, CSS3.
+Stack: Python, JavaScript, Playwright, Selenium, Postman, Docker, Swagger, Git, GitHub, GitHub Actions, GitLab, MySQL, PostgreSQL, SQL, Jira, Confluence, BrowserStack, Jenkins, VS Code, PyCharm, WebStorm, HTML5, CSS3, Windows, macOS, Android.
 </sub>
+
+
 
 
 
