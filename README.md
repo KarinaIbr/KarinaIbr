@@ -55,4 +55,11 @@ Analytical, structured, and technically fluent — I help teams build quality wi
 Stack: Python, JavaScript, Playwright, Selenium, Postman, Docker, Swagger, Git, GitHub, GitHub Actions, GitLab, MySQL, PostgreSQL, SQL, Jira, Confluence, BrowserStack, Jenkins, VS Code, PyCharm, WebStorm, HTML5, CSS3, Windows, macOS, Android.
 </sub>
 
-  <sub>🐞 446f6e27742074727573742061206665617475726520776974686f7574205141</sub>
+<br/>
+<br/>
+<sub>🐞 446f6e27742074727573742061206665617475726520776974686f7574205141
+</sub>
+
+
+
+
