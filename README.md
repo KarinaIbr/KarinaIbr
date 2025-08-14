@@ -57,8 +57,7 @@ Stack: Python, JavaScript, Playwright, Selenium, Postman, Docker, Swagger, Git, 
 
 <br/>
 <br/>
-<sub>🐞 446f6e27742074727573742061206665617475726520776974686f7574205141
-</sub>
+<sub>🐞0x446f6e27742074727573742061206665617475726520776974686f7574205141 <span style="color:#999;">(hex)</span></sub>
 
 
 
