@@ -30,11 +30,7 @@ Analytical, structured, and technically fluent — I help teams build quality wi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
   <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="40" title="Swagger"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
-  <img src="https://cdn.simpleicons.org/github/181717" width="40" title="GitHub" />
-</picture>
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" title="GitHub Actions"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" title="GitLab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
