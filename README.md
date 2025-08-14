@@ -48,9 +48,11 @@ Analytical, structured, and technically fluent — I help teams build quality wi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="35" title="Windows"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" title="macOS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android"/>
-  <a href="?qa=446f6e27742074727573742061206665617475726520776974686f7574205141">
+  <a href="README.md?qa=446f6e27742074727573742061206665617475726520776974686f7574205141">
   <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/bug-24.svg" width="36"
        title="Hidden token in URL" style="opacity:0.6;"/>
+</a>
+
 </a>
 
 </a>
