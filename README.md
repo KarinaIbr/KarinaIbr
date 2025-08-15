@@ -43,7 +43,7 @@ Analytical, structured, and technically fluent — I help teams build quality wi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="40" title="WebStorm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="33" title="Jenkins"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="32" title="Jenkins"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="44" title="SQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="35" title="Windows"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" title="macOS"/>
