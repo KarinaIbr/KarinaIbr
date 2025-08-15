@@ -10,8 +10,8 @@ Analytical, structured, and technically fluent — I help teams build quality wi
 
 ### Contacts
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" style="vertical-align:middle;"/> LinkedIn](https://www.linkedin.com/in/i-karina/)  
-[<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="15" style="vertical-align:middle;"/> Gmail](mailto:karinaibragimova54@gmail.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" style="vertical-align:middle;"/> LinkedIn](https://www.linkedin.com/in/i-karina/)  
+[<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="25" style="vertical-align:middle;"/> Gmail](mailto:karinaibragimova54@gmail.com)
 
 ### What I Do
 - Build scalable UI and API test automation frameworks
