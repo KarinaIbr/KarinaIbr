@@ -6,18 +6,15 @@ QA Engineer focused on UI and API test automation, with a solid foundation in ma
 
 I build structured automation frameworks with clear test architecture, meaningful verification, readable reports, and practical CI/reporting workflows.
 
-## Featured Projects
+## QA Automation Portfolio
 
-### UI Automation Framework
+[UI Automation Framework](https://github.com/karinaibr/qa-automation-framework) | [Live UI Allure Report](https://karinaibr.github.io/qa-automation-framework/)
 
 UI test automation framework for Swag Labs built with Python, Selenium, and pytest.
 
 The project includes Page Object Model architecture, cross-browser execution, headless mode, Allure reporting, screenshots on failure, GitHub Actions CI, and a published GitHub Pages report.
 
-- [Repository](https://github.com/karinaibr/qa-automation-framework)
-- [Live Allure Report](https://karinaibr.github.io/qa-automation-framework/)
-
-### API Automation Framework
+[API Automation Framework](https://github.com/karinaibr/api-automation-framework) | [Live API Allure Report](https://karinaibr.github.io/api-automation-framework/)
 
 API test automation framework built with Python, requests, and pytest.
 
@@ -25,9 +22,6 @@ The project validates real API behavior through operation-focused tests and a fu
 create, get, patch, verify persistence, delete, and verify deletion.
 
 It includes reusable API clients, environment-based configuration, dynamic test data generation with Faker, pytest fixture cleanup, Allure reporting, and a published GitHub Pages report.
-
-- [Repository](https://github.com/karinaibr/api-automation-framework)
-- [Live Allure Report](https://karinaibr.github.io/api-automation-framework/)
 
 ## Tools & Technologies
 
@@ -51,18 +45,10 @@ It includes reusable API clients, environment-based configuration, dynamic test 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" title="PyCharm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="40" title="WebStorm"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="32" title="Jenkins"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="44" title="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="35" title="Windows"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" title="macOS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android"/>
 </p>
-
-<sub>
-Tools and technologies: Python, JavaScript, Playwright, Selenium, Postman, Docker, Swagger, Git, GitHub, GitHub Actions, GitLab, MySQL, PostgreSQL, SQL, Jira, Confluence, BrowserStack, Jenkins, VS Code, PyCharm, WebStorm, HTML5, CSS3, Windows, macOS, Android.
-</sub>
 
 ## Testing Focus
 
@@ -73,13 +59,5 @@ Tools and technologies: Python, JavaScript, Playwright, Selenium, Postman, Docke
 - Meaningful assertions based on persisted system behavior
 - Environment-based configuration and secret handling
 - CI/reporting workflows with GitHub Actions and Allure
+- Clear project documentation for review and presentation- CI/reporting workflows with GitHub Actions and Allure
 - Clear project documentation for review and presentation
-
-## Contacts
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" style="vertical-align:middle;"/> LinkedIn](https://www.linkedin.com/in/i-karina/)  
-[<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="25" style="vertical-align:middle;"/> Gmail](mailto:karinaibragimova54@gmail.com)
-
-<br/>
-
-<sub>🐞0x446f6e27742074727573742061206665617475726520776974686f7574205141 <span style="color:#999;">(hex)</span></sub>
