@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://img.shields.io/badge/Karina%20Ibragimova-F8F9FA?style=for-the-badge&logo=github&logoColor=0A66C2" alt="Karina Ibragimova" height="39"/>&nbsp;<a href="https://www.linkedin.com/in/i-karina/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/></a>&nbsp;<a href="mailto:karinaibragimova54@gmail.com"><img src="https://img.shields.io/badge/Gmail-F8F9FA?style=for-the-badge&logo=gmail&logoColor=D93025" alt="Gmail" height="39"/></a>
+  <img src="https://img.shields.io/badge/Karina%20Ibragimova-F8F9FA?style=for-the-badge&logo=github&logoColor=0A66C2" alt="Karina Ibragimova" height="40"/>&nbsp;<a href="https://www.linkedin.com/in/i-karina/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/></a>&nbsp;<a href="mailto:karinaibragimova54@gmail.com"><img src="https://img.shields.io/badge/Gmail-F8F9FA?style=for-the-badge&logo=gmail&logoColor=D93025" alt="Gmail" height="40"/></a>
 </p>
 
 QA Engineer focused on UI and API test automation, with a solid foundation in manual testing.
