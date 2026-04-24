@@ -1,5 +1,13 @@
 <p align="left">
-  <img src="https://img.shields.io/badge/Karina%20Ibragimova-F8F9FA?style=for-the-badge&logo=github&logoColor=0A66C2" alt="Karina Ibragimova" height="40"/>&nbsp;<a href="https://www.linkedin.com/in/i-karina/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/></a>&nbsp;<a href="mailto:karinaibragimova54@gmail.com"><img src="https://img.shields.io/badge/Gmail-F8F9FA?style=for-the-badge&logo=gmail&logoColor=D93025" alt="Gmail" height="40"/></a>
+  <img src="https://img.shields.io/badge/Karina%20Ibragimova-F8F9FA?style=for-the-badge&logo=github&logoColor=0A66C2" alt="Karina Ibragimova" height="39"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/i-karina/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+  </a>
+  &nbsp;
+  <a href="mailto:karinaibragimova54@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-F8F9FA?style=for-the-badge&logo=gmail&logoColor=D93025" alt="Gmail" height="39"/>
+  </a>
 </p>
 
 QA Engineer focused on UI and API test automation, with a solid foundation in manual testing.
@@ -25,33 +33,32 @@ It includes reusable API clients, environment-based configuration, dynamic test 
 
 ## Technical Toolkit
 
+Tools, technologies, and platforms used across my UI automation, API testing, reporting, CI workflows, and portfolio projects.
+
+<p align="left">
+
+</p>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="38" title="PyCharm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="38" title="Selenium"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" title="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="38" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="38" title="GitHub Actions"/>
-
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="38" title="Postman"/>
   <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="38" title="Swagger"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="38" title="SQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" title="PostgreSQL"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="38" title="Jira"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="38" title="Confluence"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="38" title="macOS"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" title="JavaScript"/>
-  <img src="https://playwright.dev/img/playwright-logo.svg" width="38" title="Playwright"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" title="VS Code"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" title="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="38" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="38" title="GitLab"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="38" title="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" title="Docker"/>
   <img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-icon.svg" width="38" title="BrowserStack"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="38" title="Jira"/>
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="38" title="Playwright"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="38" title="Confluence"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="38" title="WebStorm"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="38" title="Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="38" title="macOS"/>
 </p>
 
 ## Testing Focus
