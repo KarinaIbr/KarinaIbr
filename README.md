@@ -1,18 +1,10 @@
 <p align="left">
-  <img src="https://img.shields.io/badge/Karina%20Ibragimova-F8F9FA?style=for-the-badge&logo=github&logoColor=0A66C2" alt="Karina Ibragimova" height="39"/>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/i-karina/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
-  </a>
-  &nbsp;
-  <a href="mailto:karinaibragimova54@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-F8F9FA?style=for-the-badge&logo=gmail&logoColor=D93025" alt="Gmail" height="39"/>
-  </a>
+  <img src="https://img.shields.io/badge/Karina%20Ibragimova%20%7C%20QA-F8F9FA?style=for-the-badge&logo=github&logoColor=0A66C2&logoWidth=48" alt="Karina Ibragimova QA" height="44"/> <a href="https://www.linkedin.com/in/i-karina/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/></a> <a href="mailto:karinaibragimova54@gmail.com"><img src="https://img.shields.io/badge/Gmail-F8F9FA?style=for-the-badge&logo=gmail&logoColor=D93025" alt="Gmail" height="44"/></a>
 </p>
 
 QA Engineer focused on UI and API test automation, with a solid foundation in manual testing.
 
-I build structured automation frameworks with clear test architecture, meaningful verification, readable reports, and practical CI/reporting workflows.
+I focus on practical test automation: clean structure, reliable checks, readable reports, and workflows that are easy to review.
 
 ## QA Automation Portfolio
 
@@ -20,7 +12,7 @@ I build structured automation frameworks with clear test architecture, meaningfu
 
 UI test automation framework for Swag Labs built with Python, Selenium, and pytest.
 
-The project includes Page Object Model architecture, cross-browser execution, headless mode, Allure reporting, screenshots on failure, GitHub Actions CI, and a published GitHub Pages report.
+It includes Page Object Model architecture, cross-browser and headless execution, screenshots on failure, Allure reporting, GitHub Actions CI, and a published GitHub Pages report.
 
 [API Automation Framework](https://github.com/karinaibr/api-automation-framework) | [Live API Allure Report](https://karinaibr.github.io/api-automation-framework/)
 
@@ -33,11 +25,8 @@ It includes reusable API clients, environment-based configuration, dynamic test 
 
 ## Technical Toolkit
 
-Tools, technologies, and platforms used across my UI automation, API testing, reporting, CI workflows, and portfolio projects.
+Tools and platforms I use across UI automation, API testing, reporting, CI workflows, and project work.
 
-<p align="left">
-
-</p>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="38" title="PyCharm"/>
@@ -63,12 +52,9 @@ Tools, technologies, and platforms used across my UI automation, API testing, re
 
 ## Testing Focus
 
-- UI test automation with Page Object Model
+- UI automation with Page Object Model
 - API testing with reusable client architecture
 - Manual testing foundation and test case thinking
 - Positive, negative, and lifecycle test scenarios
-- Meaningful assertions based on persisted system behavior
-- Environment-based configuration and secret handling
 - CI/reporting workflows with GitHub Actions and Allure
-- Clear project documentation for review and presentation- CI/reporting workflows with GitHub Actions and Allure
 - Clear project documentation for review and presentation
