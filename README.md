@@ -33,9 +33,9 @@ Tools and platforms I use across UI automation, API testing, reporting, CI workf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="38" title="Selenium"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="38" title="Postman"/>
   <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="38" title="Swagger"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" title="Git"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="38" title="SQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" title="Git"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="38" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="38" title="GitLab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="38" title="GitHub Actions"/>
