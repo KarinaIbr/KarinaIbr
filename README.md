@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://img.shields.io/badge/Karina%20Ibragimova%20%7C%20QA-F8F9FA?style=for-the-badge&logo=github&logoColor=0A66C2&logoWidth=48" alt="Karina Ibragimova QA" height="44"/> <a href="https://www.linkedin.com/in/i-karina/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/></a> <a href="mailto:karina.ibr.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-F8F9FA?style=for-the-badge&logo=gmail&logoColor=D93025" alt="Gmail" height="44"/></a>
+  <img src="https://img.shields.io/badge/Karina%20Ibragimova%20%7C%20QA-F8F9FA?style=for-the-badge&logo=github&logoColor=0A66C2&logoWidth=48" alt="Karina Ibragimova QA" height="45"/> <a href="https://www.linkedin.com/in/i-karina/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/></a> <a href="mailto:karina.ibr.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-F8F9FA?style=for-the-badge&logo=gmail&logoColor=D93025" alt="Gmail" height="44"/></a>
 </p>
 
 QA Engineer focused on UI and API test automation, with a solid foundation in manual testing.
