@@ -28,7 +28,7 @@ It includes reusable API clients, environment-based configuration, dynamic test 
 Tools and platforms I use across UI automation, API testing, reporting, CI workflows, and project work.
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="39" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="38" title="PyCharm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="38" title="Selenium"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="38" title="Postman"/>
