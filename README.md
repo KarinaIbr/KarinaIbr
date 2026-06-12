@@ -22,7 +22,6 @@ The project validates real API behavior through operation-focused tests and a fu
 create, get, patch, verify persistence, delete, and verify deletion.
 
 It includes reusable API clients, environment-based configuration, dynamic test data generation with Faker, pytest fixture cleanup, Allure reporting, and a published GitHub Pages report.
-
 ## Technical Toolkit
 
 Tools and platforms I use across UI automation, API testing, reporting, CI workflows, and project work.
