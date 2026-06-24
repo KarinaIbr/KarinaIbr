@@ -51,9 +51,8 @@ Tools and platforms I use across UI automation, API testing, reporting, CI workf
 
 ## Testing Focus
 
-- UI automation with Page Object Model
-- API testing with reusable client architecture
-- Manual testing foundation and test case thinking
-- Positive, negative, and lifecycle test scenarios
-- CI/reporting workflows with GitHub Actions and Allure
-- Clear project documentation for review and presentation
+- UI and API test automation frameworks
+- Reusable API client architecture and test data management
+- Positive, negative, edge-case, and end-to-end testing
+- CI/CD pipelines, GitHub Actions, and Allure reporting
+- Technical documentation, defect analysis, and project presentation
