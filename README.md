@@ -48,11 +48,3 @@ Tools and platforms I use across UI automation, API testing, reporting, CI workf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="38" title="WebStorm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="38" title="macOS"/>
 </p>
-
-## Testing Focus
-
-- UI and API test automation frameworks
-- Reusable API client architecture and test data management
-- Positive, negative, edge-case, and end-to-end testing
-- CI/CD pipelines, GitHub Actions, and Allure reporting
-- Technical documentation, defect analysis, and project presentation
