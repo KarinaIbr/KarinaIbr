@@ -14,12 +14,11 @@ UI test automation framework for Swag Labs built with Python, Selenium, and pyte
 
 It includes Page Object Model architecture, cross-browser and headless execution, screenshots on failure, Allure reporting, GitHub Actions CI, and a published GitHub Pages report.
 
-[API Automation Framework](https://github.com/karinaibr/api-automation-framework) | [Live API Allure Report](https://karinaibr.github.io/api-automation-framework/)
+[API Automation Framework](https://github.com/karinaibr/api-automation-framework) | [Live API Allure Report](https://karinaibr.github.io/api-automation-framework/) | [Known Backend Defect](https://github.com/KarinaIbr/api-automation-framework/issues/1)
 
 API test automation framework built with Python, requests, and pytest.
 
-The project validates real API behavior through operation-focused tests and a full resource lifecycle scenario:
-create, get, patch, verify persistence, delete, and verify deletion.
+The project validates real API behavior through operation-focused tests, a full resource lifecycle scenario, negative contract testing, persisted state verification, and documented backend defect reporting.
 
 It includes reusable API clients, environment-based configuration, dynamic test data generation with Faker, pytest fixture cleanup, Allure reporting, and a published GitHub Pages report.
 ## Technical Toolkit
