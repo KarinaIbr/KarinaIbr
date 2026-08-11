@@ -27,7 +27,7 @@ Tools and platforms I use across UI automation, API testing, reporting, CI workf
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="39" title="PyCharm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" title="PyCharm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="39" title="Selenium"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="38" title="Postman"/>
   <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="38" title="Swagger"/>
