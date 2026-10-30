@@ -10,9 +10,9 @@ I focus on practical test automation: clean structure, reliable checks, readable
 
 [UI Automation Framework](https://github.com/karinaibr/qa-automation-framework) | [Live UI Allure Report](https://karinaibr.github.io/qa-automation-framework/)
 
-UI test automation framework for Swag Labs built with Python, Selenium, and pytest.
+UI test automation framework for Swag Labs built with Python, Selenium WebDriver, and pytest.
 
-It includes Page Object Model architecture, cross-browser and headless execution, screenshots on failure, Allure reporting, GitHub Actions CI, and a published GitHub Pages report.
+The project features Page Object Model (POM) architecture, cross-browser and headless test execution, automatic screenshots on failure, Allure reporting, continuous integration with GitHub Actions, and published test reports via GitHub Pages.
 
 [API Automation Framework](https://github.com/karinaibr/api-automation-framework) | [Live API Allure Report](https://karinaibr.github.io/api-automation-framework/) | [Known Backend Defect](https://github.com/KarinaIbr/api-automation-framework/issues/1)
 
