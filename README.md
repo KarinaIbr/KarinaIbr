@@ -16,11 +16,11 @@ It includes Page Object Model architecture, cross-browser and headless execution
 
 [API Automation Framework](https://github.com/karinaibr/api-automation-framework) | [Live API Allure Report](https://karinaibr.github.io/api-automation-framework/) | [Known Backend Defect](https://github.com/KarinaIbr/api-automation-framework/issues/1)
 
-API test automation framework built with Python, requests, and pytest.
+REST API test automation framework built with Python, Requests, and pytest.
 
-The project validates real API behavior through operation-focused tests, a full resource lifecycle scenario, negative contract testing, persisted state verification, and documented backend defect reporting.
+The project covers functional API testing, end-to-end resource lifecycle validation, negative and contract testing, persistent state verification, and backend defect identification and documentation.
 
-It includes reusable API clients, environment-based configuration, dynamic test data generation with Faker, pytest fixture cleanup, Allure reporting, and a published GitHub Pages report.
+It features reusable API clients, environment-based configuration, dynamic test data with Faker, automated test cleanup using pytest fixtures, Allure reporting, and published test results via GitHub Pages.
 ## Technical Toolkit
 
 Tools and platforms I use across UI automation, API testing, reporting, CI workflows, and project work.
