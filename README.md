@@ -1,49 +1,36 @@
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Karina%20Ibragimova%20%7C%20QA-F8F9FA?style=for-the-badge&logo=github&logoColor=0A66C2&logoWidth=48" alt="Karina Ibragimova QA" height="45"/> <a href="https://www.linkedin.com/in/i-karina/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/></a> <a href="mailto:karina.ibr.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-F8F9FA?style=for-the-badge&logo=gmail&logoColor=D93025" alt="Gmail" height="44"/></a>
+  <strong>Karina Ibragimova · QA Automation Engineer</strong><br>
+  <a href="https://www.linkedin.com/in/i-karina/" title="LinkedIn"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="17" height="17" alt="LinkedIn"> LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:karina.ibr.work@gmail.com" title="Email"><img src="https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/gmail-2026/default.svg" width="17" height="17" alt="Gmail"> Email</a>
 </p>
 
-QA Engineer focused on UI and API test automation, with a solid foundation in manual testing.
+I build UI and API automation frameworks in Python, with a focus on test design, reliable execution, and investigating unexpected behavior. I care about what the tests actually verify, not just whether they pass.
 
-I focus on practical test automation: clean structure, reliable checks, readable reports, and workflows that are easy to review.
+**Selected Work**
 
-## QA Automation Portfolio
+**[UI Automation Framework](https://github.com/KarinaIbr/qa-automation-framework)** · [Allure Report](https://karinaibr.github.io/qa-automation-framework/)
 
-[UI Automation Framework](https://github.com/karinaibr/qa-automation-framework) | [Live UI Allure Report](https://karinaibr.github.io/qa-automation-framework/)
+Selenium and pytest framework for Swag Labs, covering login, access control, inventory, sorting, cart behavior, and checkout navigation. Includes Page Objects, Chrome and Firefox execution, GitHub Actions CI, and failure screenshots.
 
-UI test automation framework for Swag Labs built with Python, Selenium WebDriver, and pytest.
+**[API Automation Framework](https://github.com/KarinaIbr/api-automation-framework)** · [Allure Report](https://karinaibr.github.io/api-automation-framework/) · [Backend Defect](https://github.com/KarinaIbr/api-automation-framework/issues/1)
 
-The project features Page Object Model (POM) architecture, cross-browser and headless test execution, automatic screenshots on failure, Allure reporting, continuous integration with GitHub Actions, and published test reports via GitHub Pages.
+Python, requests, and pytest framework for an address management API. Covers resource lifecycle, negative scenarios, and persisted state checks, with reusable API clients and fixture-based cleanup.
 
-[API Automation Framework](https://github.com/karinaibr/api-automation-framework) | [Live API Allure Report](https://karinaibr.github.io/api-automation-framework/) | [Known Backend Defect](https://github.com/KarinaIbr/api-automation-framework/issues/1)
+While testing `PATCH`, I found that a mixed valid and invalid `fieldMask` returns `500` instead of `400`. I documented the bug and kept the test in the suite with `xfail`.
 
-REST API test automation framework built with Python, Requests, and pytest.
-
-The project covers functional API testing, end-to-end resource lifecycle validation, negative and contract testing, persistent state verification, and backend defect identification and documentation.
-
-It features reusable API clients, environment-based configuration, dynamic test data with Faker, automated test cleanup using pytest fixtures, Allure reporting, and published test results via GitHub Pages.
-## Technical Toolkit
-
-Tools and platforms I use across UI automation, API testing, reporting, CI workflows, and project work.
+**Technical Toolkit**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" title="PyCharm"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="39" title="Selenium"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="38" title="Postman"/>
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="38" title="Swagger"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" title="Git"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="38" title="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" title="MySQL"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="38" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="39" title="GitLab"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="38" title="GitHub Actions"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" title="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-icon.svg" width="38" title="BrowserStack"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="38" title="Jira"/>
-  <img src="https://playwright.dev/img/playwright-logo.svg" width="38" title="Playwright"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="39" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="39" title="Confluence"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="38" title="WebStorm"/>
-  
+<a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28" alt="Python"></a>&nbsp;
+<a href="https://www.selenium.dev/" title="Selenium"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="28" height="28" alt="Selenium"></a>&nbsp;
+<a href="https://docs.pytest.org/" title="pytest"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="28" height="28" alt="pytest"></a>&nbsp;
+<a href="https://www.postman.com/" title="Postman"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="28" height="28" alt="Postman"></a>&nbsp;
+<a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" height="28" alt="Git"></a>&nbsp;
+<a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="28" height="28" alt="GitHub Actions"></a>&nbsp;
+<a href="https://www.mysql.com/" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28" height="28" alt="MySQL"></a>&nbsp;
+<a href="https://www.atlassian.com/software/jira" title="Jira"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="28" height="28" alt="Jira"></a>&nbsp;
+<a href="https://playwright.dev/" title="Playwright"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="28" height="28" alt="Playwright"></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript"></a>
 </p>
