@@ -6,7 +6,7 @@
   <a href="mailto:karina.ibr.work@gmail.com" title="Email"><img src="https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/gmail-2026/default.svg" width="17" height="17" alt="Gmail"> Email</a>
 </p>
 
-I build UI and API automation frameworks in Python, with a focus on test design, reliable execution, and investigating unexpected behavior. I care about what the tests actually verify, not just whether they pass.
+I build UI and API automation frameworks in Python, with a focus on test design, reliable execution, and investigating unexpected behavior. I care about what the tests actually verify, not just whether they pass
 
 **Selected Work**
 
